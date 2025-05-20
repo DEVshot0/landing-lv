@@ -18,17 +18,17 @@
                         <strong>Nos localizamos em:</strong><br>
                         Itumbiara - GO<br><br>
                         <strong>Endereço:</strong><br>
-                        Av. Beira Rio, 131 - Village Imperial<br>
-                        Itumbiara - GO, 75523-070<br><br>
+                        Rua Renato Alencar esquina com Av. Beira Rio, 85<br>
+                        Itumbiara - GO, 75523-050<br><br>
                         <strong>Horário de funcionamento:</strong><br>
                         Segunda à Sexta — das 8h às 18h<br>
                         Sábados, domingos e feriados — fechado
                     </p>
 
-                    <!-- Mapa Google -->
+                    <!-- Mapa Google atualizado -->
                     <div class="mt-4 rounded shadow overflow-hidden" style="height: 250px;">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3735.8992111157423!2d-49.22646822510896!3d-18.416510742741246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94a6a8106d9b3b29%3A0x846ae5c6a4d3bb95!2sAv.%20Beira%20Rio%2C%20131%20-%20Village%20Imperial%2C%20Itumbiara%20-%20GO%2C%2075523-070!5e0!3m2!1spt-BR!2sbr!4v1715533400000!5m2!1spt-BR!2sbr"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3785.5426291010544!2d-49.215905513863326!3d-18.413655748160394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94a10d97292a3ceb%3A0x3227568a44b0a5aa!2sLuciano%20Vieira%20-%20Escrit%C3%B3rio%20de%20Advocacia!5e0!3m2!1spt-BR!2sbr!4v1747685511104!5m2!1spt-BR!2sbr"
                             width="100%"
                             height="100%"
                             style="border:0;"

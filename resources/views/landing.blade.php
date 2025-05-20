@@ -11,7 +11,7 @@
             <div class="col-lg-4 d-flex flex-column align-items-center order-2 order-lg-1 mt-5 mt-lg-0 fade-from-line-left" id="inicio-left">
                 <div class="mb-4 text-center" style="width: 100%;">
                     <!-- Logo adicionada aqui -->
-                    <img src="{{ asset('/images/logo-lv.png') }}" alt="Logo Luciano Vieira" class="mb-4" style="max-height: 120px;">
+                    <img src="{{ asset('/images/logo-azul.png') }}" alt="Logo Luciano Vieira" class="mb-4" style="max-height: 120px;">
                     <h2 class="fw-bold mb-2" style="font-size: 2.8rem; color: #0c1b33;">Luciano Vieira</h2>
                     <h4 class="fw-normal" style="font-size: 1.8rem; color: #a17a41;">escritório de advocacia</h4>
                 </div>

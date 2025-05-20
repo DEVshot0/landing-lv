@@ -18,7 +18,7 @@
                         <strong>Nos localizamos em:</strong><br>
                         Itumbiara - GO<br><br>
                         <strong>Endereço:</strong><br>
-                        Rua Renato Alencar esquina com Av. Beira Rio, 85<br>
+                        Rua Renato de Alencar 85, esquina com Av. Beira Rio <br>
                         Itumbiara - GO, 75523-050<br><br>
                         <strong>Horário de funcionamento:</strong><br>
                         Segunda à Sexta — das 8h às 18h<br>

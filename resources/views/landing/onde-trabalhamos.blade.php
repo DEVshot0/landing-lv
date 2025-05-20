@@ -18,7 +18,8 @@
                         <strong>Nos localizamos em:</strong><br>
                         Itumbiara - GO<br><br>
                         <strong>Endereço:</strong><br>
-                        Rua Renato de Alencar 85, esquina com Av. Beira Rio <br>
+                        Rua Renato Alencar 85, esquina com Av. Beira Rio <br>
+                        Bairro Alto da Boa Vista <br>
                         Itumbiara - GO, 75523-050<br><br>
                         <strong>Horário de funcionamento:</strong><br>
                         Segunda à Sexta — das 8h às 18h<br>

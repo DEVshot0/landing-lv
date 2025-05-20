@@ -19,7 +19,7 @@
                 <h5 class="mb-3">Endereço</h5>
                 <p class="mb-0">
                     <i class="fas fa-map-marker-alt me-2"></i>
-                    Rua Renato Alencar, 85, esquina com a Av. Beira Rio - Alto da Boa Vista<br>
+                    Rua Renato Alencar 85, esquina com a Av. Beira Rio - Alto da Boa Vista<br>
                     Itumbiara - GO, 75523-050
                 </p>
             </div>

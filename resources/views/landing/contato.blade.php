@@ -9,7 +9,6 @@
         <div class="row justify-content-center">
             <div class="col-md-6 fade-from-line-right">
                 <form id="form-contato" class="text-light">
-                    @csrf
                     <div class="mb-3">
                         <label for="contato-nome" class="form-label">Nome</label>
                         <input type="text" class="form-control" id="contato-nome" placeholder="Seu nome" required>
@@ -47,11 +46,10 @@
                 };
 
                 try {
-                    const response = await fetch("/contato", {
+                    const response = await fetch("/formulario.php", {
                         method: "POST",
                         headers: {
-                            "Content-Type": "application/json",
-                            "X-CSRF-TOKEN": document.querySelector('input[name="_token"]').value
+                            "Content-Type": "application/json"
                         },
                         body: JSON.stringify(data)
                     });
@@ -62,12 +60,12 @@
                         alert("Mensagem enviada com sucesso!");
                         form.reset();
                     } else {
-                        alert("Erro ao enviar. Verifique os dados e tente novamente.");
+                        alert("Erro ao enviar: " + (result.error || "verifique os dados."));
                     }
 
                 } catch (error) {
                     console.error("Erro ao enviar:", error);
-                    alert("Ocorreu um erro ao enviar o formulário.");
+                    alert("Erro inesperado ao enviar o formulário.");
                 }
             });
         });
